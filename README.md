@@ -1,16 +1,37 @@
 ## Hi there 👋
 
-<!--
-**ayeshaakhatun/ayeshaakhatun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--class Ayesha:
+    def __init__(self):
+        self.name = "Ayesha"
+        self.title = "Full Stack Web Developer (in progress 🚀)"
+        self.stack = ["Python", "Django", "React", "AI"]
+        self.location = "Dhaka, Bangladesh"
 
-Here are some ideas to get you started:
+    def about_me(self):
+        return (
+            "Passionate about building modern, responsive, and smart web applications. "
+            "Currently learning Full Stack Development with a focus on clean design and real-world solutions."
+        )
+
+    def skills(self):
+        return {
+            "Frontend": ["HTML", "CSS", "JavaScript", "React"],
+            "Backend": ["Python", "Django"],
+            "Tools": ["Git", "GitHub"],
+            "AI": ["Exploring AI integration 🤖"]
+        }
+
+    def goals(self):
+        return [
+            "Build real-world projects",
+            "Master full stack development",
+            "Create AI-powered web apps",
+            "Keep learning and growing 🌱"
+        ]
+
+    def __str__(self):
+        return f"Hi, I'm {self.name} 👋 — Welcome to my GitHub!"
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
