@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff9a9e,100:fad0c4&text=Ayesha%20%20Khatun&section=header&reversal=false&textBg=false&fontColor=333333&fontSize=40&animation=fadeIn&stroke=35&strokeWidth=100&desc=Learning%20|%20Building%20|%20Growing&descAlignY=63&descSize=20&fontAlignY=48&descAlignY=56
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff9a9e,100:fad0c4&text=Ayesha%20%20Khatun&section=header&reversal=false&textBg=false&fontColor=333333&fontSize=40&animation=fadeIn&stroke=35&strokeWidth=100&desc=Learning%20|%20Building%20|%20Growing&descAlignY=63&descSize=20&fontAlignY=48&descAlignY=56)
 
 ## Hi there 👋
 ## Ayesha
