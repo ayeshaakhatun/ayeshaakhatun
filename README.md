@@ -35,11 +35,17 @@ class Ayesha:
         return f"Hi, I'm {self.name} 👋 — Welcome to my GitHub!"
 ```
 
-## 💻 Learning
-
+## Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,bootstrap,git,github,vscode,python,opencv" />
 </p>
+
+## 🌟 Fun Facts about ME
+
+I name variables like I’m naming pets 🐶💻  
+I get happy when code runs without errors 😄  
+I sometimes fix bugs by trying random things 😅  
+I believe every error teaches something new 🚀  
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff9a9e,100:fad0c4&text=Thank%20you%20for%20visiting%20&section=footer&reversal=false&textBg=false&fontColor=333333&fontSize=40&animation=fadeIn&stroke=35&strokeWidth=200&desc=Hoping%20for%20something%20great%20ahead&descAlignY=70&descSize=20&fontAlignY=48&descAlignY=56)    
 
