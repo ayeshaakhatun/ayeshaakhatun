@@ -35,5 +35,5 @@ class Ayesha:
         return f"Hi, I'm {self.name} 👋 — Welcome to my GitHub!"
 ```
 
-       
+![footer](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff9a9e,100:fad0c4&text=Thank%20you%20for%20visiting%20&section=footer&reversal=false&textBg=false&fontColor=333333&fontSize=40&animation=fadeIn&stroke=35&strokeWidth=200&desc=Hoping%20for%20something%20great%20ahead&descAlignY=70&descSize=20&fontAlignY=48&descAlignY=56)    
 
