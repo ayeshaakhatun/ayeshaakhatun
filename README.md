@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff9a9e,100:fad0c4&text=Ayesha%20%20Khatun&section=header&reversal=false&textBg=false&fontColor=333333&fontSize=40&animation=fadeIn&stroke=35&strokeWidth=100&desc=Learning%20|%20Building%20|%20Growing&descAlignY=63&descSize=20&fontAlignY=48&descAlignY=56)
 ## Hi there 👋
+## Get to Know Me
 
 ```python
 class Ayesha:
@@ -43,10 +44,10 @@ class Ayesha:
 ## 🌟 Fun Facts about ME
   
 I get happy when code runs without errors 😄  
-I sometimes fix bugs by trying random things 😅  
-I believe every error teaches something new 🚀 
-I start coding… then forget what I was doing 😅  
-I fix one thing and break another 😄🔧  
+I sometimes fix bugs by trying random things.  
+I believe every error teaches something new.
+I start coding… then forget what I was doing   
+I fix one thing and break another. 
 I code better after learning from mistakes.
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff9a9e,100:fad0c4&text=Thank%20you%20for%20visiting%20&section=footer&reversal=false&textBg=false&fontColor=333333&fontSize=40&animation=fadeIn&stroke=35&strokeWidth=200&desc=Hoping%20for%20something%20great%20ahead&descAlignY=70&descSize=20&fontAlignY=48&descAlignY=56)    
